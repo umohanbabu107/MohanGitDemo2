@@ -6,5 +6,7 @@ public class Programme1 {
 		System.out.println("Hi this is Mohan2 and I have added this");
 		// Below code is done by the Mohan
 		System.out.println("This line is written by Mohan in GitPractice-M1 project");
+		// Below code is done by the Mohan2
+		System.out.println("This line is written by Mohan2");
 	}
 }
