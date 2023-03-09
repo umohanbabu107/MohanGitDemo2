@@ -1,6 +1,8 @@
 package pkgGitPractice;
 
 public class Programme1 {
+	static int a = 10;
+	static int b = 20;
 	public static void main(String[] args) {
 		System.out.println("Hi this is Mohan and I have added this code");
 		System.out.println("Hi this is Mohan2 and I have added this");
@@ -12,10 +14,13 @@ public class Programme1 {
 	}
 	// This method is added by the Mohan2
 	public static void sum() {
-		int a = 10;
-		int b = 20;
-		
 		int c = a+b;
 		System.out.println(c);
+	}
+	
+	// This method is added by Mohan
+	public static void sub() {
+		int d = a*b;
+		System.out.println(d);
 	}
 }
