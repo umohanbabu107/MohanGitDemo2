@@ -8,5 +8,14 @@ public class Programme1 {
 		System.out.println("This line is written by Mohan in GitPractice-M1 project");
 		// Below code is done by the Mohan2
 		System.out.println("This line is written by Mohan2");
+		sum();
+	}
+	// This method is added by the Mohan2
+	public static void sum() {
+		int a = 10;
+		int b = 20;
+		
+		int c = a+b;
+		System.out.println(c);
 	}
 }
